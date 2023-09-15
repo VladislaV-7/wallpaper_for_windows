@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,html {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  background-color: rgb(43, 42, 42);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 65px;
+  padding-top: 5vh;
+}
+
+.wallpaper1 {
+  background-image: url(../img/win11/win11-1.jpg);
+  background-position-x: -90px ;
+  background-size: 979px;
+  background-repeat: no-repeat;
+  border: solid 5px black;
+  margin-top: 25px;
+  margin-left: 40px;
+  width: 816px;
+  height: 432px;
+}
+
+.wallpaper2 {
+  background-image:  url(../img/win11/win11-2.jpeg);
+  background-repeat: no-repeat;
+  background-position-y: -30px ;
+  background-size: 805px;
+  border: solid 5px black;
+  margin-left: 1070px;
+  margin-top: -432px;
+  width: 816px;
+  height: 432px;
+}
+
+.wallpaper3 {
+  background-image:  url(../img/win11/win11-3.jpg);
+  background-repeat: no-repeat;
+  background-position-y: -30px ;
+  background-size: 820px;
+  border: solid 5px black;
+  margin-top: 35px; 
+  margin-left: 40px;
+  width: 816px;
+  height: 432px;
+}
+
+.wallpaper4 {
+  background-image:  url(../img/win11/win11-4.jpeg);
+  background-repeat: no-repeat;
+  background-position-y: -30px ;
+  background-size: 820px;
+  border: solid 5px black;
+  margin-left: 1070px;
+  margin-top: -432px;
+  width: 816px;
+  height: 432px;
+}
+
+.wallpaper5 {
+  background-image:  url(../img/win11/win11-5.jpg);
+  background-repeat: no-repeat;
+  background-position-y: 0;
+  background-position-x: 0px;
+  background-size: 805px;
+  border: solid 5px black;
+  margin-top: 35px; 
+  margin-left: 40px;
+  width: 816px;
+  height: 432px;
+}
+
+.wallpaper6 {
+  background-image:  url(../img/win11/win11-6.jpg);
+  background-repeat: no-repeat;
+  background-position-y: -90px ;
+  background-size: 820px;
+  border: solid 5px black;
+  margin-left: 1070px;
+  margin-top: -432px;
+  width: 816px;
+  height: 432px;
+}
+
+.Wallpaper-item {
+  text-align: center;
+  text-decoration: none;
+  font-size: 400px;
+  color: transparent;
+}
